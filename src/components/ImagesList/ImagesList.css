@@ -1,0 +1,14 @@
+.images-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 16px 0 30px;
+}
+
+.images-list__item {
+  border-radius: 10px;
+  width: 109px;
+  height: 109px;
+  object-fit: cover;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.form-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px;
+  height: 100%;
+  background: url('../../images/background.png') bottom;
+  padding-bottom: 260px;
+}
+.form-screen__title {
+  margin-bottom: 30px;
+}
+.form {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+.form__button {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  background-color: #BF2E0E;
+  color: #fff;
+  box-shadow: 0px 4px 14px 0px #BF2E0E33;
+  border: none;
+  border-radius: 10px;
+  height: 60px;
+  cursor: pointer;
+  margin-top: 24px;
+}
+.form__select {
+  margin-bottom: 19px;
+}

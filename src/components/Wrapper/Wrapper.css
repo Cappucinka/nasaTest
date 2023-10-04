@@ -1,0 +1,7 @@
+.Wrapper {
+  width: 375px;
+  height: 100vh;
+  max-height: 812px;
+  overflow-y: scroll;
+  margin: 0 auto;
+}

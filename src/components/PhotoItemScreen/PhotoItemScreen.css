@@ -1,0 +1,11 @@
+.photo-item-screen {
+  min-height: 100%;
+  background: #000;
+  padding: 16px;
+  position: relative;
+}
+.photo-item-screen__content {
+  margin: 16px 0 30px;
+  border-radius: 10px;
+  overflow: hidden;
+}
